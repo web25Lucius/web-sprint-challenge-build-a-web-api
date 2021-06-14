@@ -149,4 +149,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 1. Understand and explain the use of Express Routers.
    Router dictates how the api will communicate with the client.  
 1. Describe tooling used to manually test the correctness of an API.
-   test with Postman
+   Test with Postman
