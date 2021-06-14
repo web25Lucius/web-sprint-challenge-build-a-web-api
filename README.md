@@ -141,7 +141,12 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. The core features of Node.js and Express and why they are useful.
-1. Understand and explain the use of Middleware.
+   Event driven programming to servers. Single threaded and ansyncrhonous, not blocking execution of program while awaiting api communication. 
+1. Understand and explain the use of Middleware. 
+   A hook that has access to req and res. 
 1. The basic principles of the REST architectural style.
+   Representational state transfer uses HTTP protocol.  CRUD.  Post, Get, Put, and Delete. 
 1. Understand and explain the use of Express Routers.
+   Router dictates how the api will communicate with the client.  
 1. Describe tooling used to manually test the correctness of an API.
+   test with Postman
